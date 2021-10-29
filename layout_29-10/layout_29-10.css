@@ -1,0 +1,31 @@
+.background{
+
+    background: rgb(87,80,222);
+    background: linear-gradient(90deg, rgba(87,80,222,1) 20%, rgba(226,99,115,1) 62%, rgba(226,99,115,1) 63%, rgba(241,111,129,0.979411833092612) 76%, rgba(231,115,134,1) 79%, rgba(62,186,223,1) 88%, rgba(0,212,255,1) 95%);
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+/*-----------------------------------IMAGENES-------------------------------------------------------------------------------------------------------------------------*/
+#bg_imagen-estudio{
+
+    background-image: url("../layout_29-10/imagenes/empezar-estudiar-en-linea.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bg_formulario{
+
+    background-color: #fffffff5;
+
+   
+}
+
+
+
+
+#CET30 img{
+
+    width: 230px;
+    height: 230px;
+}
