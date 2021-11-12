@@ -54,8 +54,33 @@
 }
 
 
+/*-------------------------------------------------------------SIDEBAR-------------------------------------------------------------------------------------*/
 
+.sidebar2{
+    background-color: rgb(218, 218, 218);
+    border: 2px rgb(54, 54, 54) solid;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.sidebar_mi_clase{
+    color:#465b5f;
+    font-size: 20px;
+}
 
+.sidebar_mi_clase:hover{
+    color: #80ecff;
+}
+
+/*-------------------------------------------------------------CONTENIDO-------------------------------------------------------------------------*/
+
+.mi_clase_contenido{
+    background-color: #e9e9e9;
+}
+
+.mi_clase_contenido{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 /* SIRVE PARA CAMBIAR PROPIEDADES CUANDO EL MOUSE PARA POR ENCIMA DEL ELEMENO O CLASE O ID APLICADO
 h1:hover {
     color: coral;
@@ -69,3 +94,4 @@ h1:hover {
     font-size: 1em;
 }
 */
+
